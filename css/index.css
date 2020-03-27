@@ -1,0 +1,132 @@
+.logo {
+  margin-left: 165px;
+  margin-bottom: 30px;
+}
+
+.google {
+  display: flex;
+  justify-content: center;
+  margin-top: 136px;
+}
+
+.google-text__column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #e4e4e4;
+  border-radius: 40px;
+  width: 600px;
+  height: 40px;
+  position: relative;
+}
+
+.google-text__column:hover {
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.text__box {
+  width: 452px;
+  position: absolute;
+  left: 50px;
+  height: 100%;
+  border: none;
+}
+
+.text__box:focus {
+  outline: none;
+}
+
+.text__icon-left {
+  position: absolute;
+  left: 15px;
+}
+
+.text__icon-right {
+  position: absolute;
+  right: 22px;
+}
+
+.text__icon-key {
+  margin-right: 23px;
+  color: #7b7b7b;
+}
+
+.text__icon-mag {
+  color: #9aa0a6;
+}
+
+.text__icon-mic {
+  color: #7b7b7b;
+}
+
+.google-lucky__column {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  margin-bottom: 30px;
+}
+
+.lucky__search {
+  height: 34px;
+  width: 112px;
+  margin-right: 15px;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-left: 19.1px;
+  color: #5f6368;
+}
+
+.lucky__lucky {
+  height: 34px;
+  width: 145px;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-left: 18.345px;
+  color: #5f6368;
+}
+
+.hoverOne:hover {
+  border: 1px solid #bbbaba;
+  box-shadow: 0 1px 1px 0 rgba(155, 157, 165, 0.28);
+  cursor: pointer;
+  color: #222222;
+}
+
+.google-service__column {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.service {
+  margin-right: 5px;
+}
+
+.service__link {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+a {
+  color: #3524ee;
+}
+
+.service__link :hover {
+  text-decoration: underline;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.top:hover {
+  text-decoration: underline;
+}
+
+.bugFix {
+  padding-left: 10px;
+}

@@ -1,0 +1,33 @@
+.status-bar__column {
+  display: flex;
+  justify-content: flex-end;
+  padding: 15px 34px;
+  align-items: center;
+}
+
+.status-bar__gmail {
+  font-size: 13px;
+}
+
+.status-bar__image {
+  font-size: 13px;
+  margin-left: 16px;
+  margin-right: 23px;
+}
+
+.status-bar__block {
+  margin-right: 21px;
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.status-bar__wogud {
+  background-color: #01579b;
+  color: white;
+  height: 32px;
+  width: 32px;
+  border-radius: 15px;
+  padding-top: 9px;
+  padding-left: 3.5px;
+  font-size: 13px;
+}

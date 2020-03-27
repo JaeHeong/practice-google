@@ -1,0 +1,60 @@
+.google-section__column {
+  position: fixed;
+  bottom: 0px;
+  height: 80px;
+  width: 100%;
+  font-size: 15px;
+  color: #7c8288;
+}
+
+.section__one {
+  height: 50%;
+  background-color: #f2f2f2;
+  border-top: 0.5px solid #e4e4e4;
+  border-bottom: 0.5px solid #e4e4e4;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.section__korea {
+  margin-left: 32px;
+}
+
+.section__two {
+  display: flex;
+  height: 50%;
+  width: 100%;
+  background-color: #f2f2f2;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section-left {
+  display: flex;
+  margin-left: 32px;
+  width: 20%;
+  justify-content: space-between;
+}
+
+.section-right {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 33px;
+  width: 10%;
+}
+
+.a:hover,
+.b:hover,
+.c:hover,
+.d:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.e:hover,
+.f:hover,
+.g:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
